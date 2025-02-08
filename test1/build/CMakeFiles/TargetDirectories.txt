@@ -1,0 +1,3 @@
+C:/PRJ/test1/build/CMakeFiles/a.dir
+C:/PRJ/test1/build/CMakeFiles/edit_cache.dir
+C:/PRJ/test1/build/CMakeFiles/rebuild_cache.dir
